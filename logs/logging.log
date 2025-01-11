@@ -1,0 +1,97 @@
+[2025-01-10 23:53:28,522: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-01-10 23:53:28,526: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-01-11 00:02:06,053: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-01-11 00:02:06,055: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-01-11 00:02:06,057: INFO: common: yaml file: schema.yaml loaded successfully]
+[2025-01-11 00:02:55,650: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-01-11 00:02:55,655: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-01-11 00:02:55,656: INFO: common: yaml file: schema.yaml loaded successfully]
+[2025-01-11 00:03:58,491: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-01-11 00:03:58,497: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-01-11 00:03:58,498: INFO: common: yaml file: schema.yaml loaded successfully]
+[2025-01-11 00:05:19,479: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-01-11 00:05:19,483: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-01-11 00:05:19,486: INFO: common: yaml file: schema.yaml loaded successfully]
+[2025-01-11 00:05:19,490: INFO: common: created directory at: artifacts]
+[2025-01-11 00:05:19,492: INFO: common: created directory at: artifacts/data_ingestion]
+[2025-01-11 00:05:20,399: INFO: 251335794: artifacts/data_ingestion/data.zip download! with following info: 
+Connection: close
+Content-Length: 23329
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "c69888a4ae59bc5a893392785a938ccd4937981c06ba8a9d6a21aa52b4ab5b6e"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: 0DF5:35372D:12B8CA:1B2529:67816867
+Accept-Ranges: bytes
+Date: Fri, 10 Jan 2025 18:35:19 GMT
+Via: 1.1 varnish
+X-Served-By: cache-del21742-DEL
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1736534119.378413,VS0,VE314
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: af39ad833b543672845db8749e76747df1900917
+Expires: Fri, 10 Jan 2025 18:40:19 GMT
+Source-Age: 0
+
+]
+[2025-01-11 21:50:01,572: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2025-01-11 21:50:01,574: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-01-11 21:50:01,590: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-01-11 21:50:01,594: INFO: common: yaml file: schema.yaml loaded successfully]
+[2025-01-11 21:50:01,595: INFO: common: created directory at: artifacts]
+[2025-01-11 21:50:01,595: INFO: common: created directory at: artifacts/data_ingestion]
+[2025-01-11 21:50:01,596: INFO: data_ingestion: File already exists]
+[2025-01-11 21:50:01,626: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2025-01-11 22:22:12,629: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-01-11 22:22:12,631: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-01-11 22:22:12,634: INFO: common: yaml file: schema.yaml loaded successfully]
+[2025-01-11 22:22:12,636: INFO: common: created directory at: artifacts]
+[2025-01-11 22:29:48,927: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-01-11 22:29:48,930: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-01-11 22:29:48,935: INFO: common: yaml file: schema.yaml loaded successfully]
+[2025-01-11 22:29:48,936: INFO: common: created directory at: artifacts]
+[2025-01-11 22:49:36,730: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-01-11 22:49:36,733: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-01-11 22:49:36,736: INFO: common: yaml file: schema.yaml loaded successfully]
+[2025-01-11 22:49:36,739: INFO: common: created directory at: artifacts]
+[2025-01-11 22:49:36,743: INFO: common: created directory at: artifacts/data_validation]
+[2025-01-11 23:05:20,648: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2025-01-11 23:05:20,651: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-01-11 23:05:20,652: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-01-11 23:05:20,654: INFO: common: yaml file: schema.yaml loaded successfully]
+[2025-01-11 23:05:20,655: INFO: common: created directory at: artifacts]
+[2025-01-11 23:05:20,657: INFO: common: created directory at: artifacts/data_ingestion]
+[2025-01-11 23:05:20,657: INFO: data_ingestion: File already exists]
+[2025-01-11 23:05:20,660: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2025-01-11 23:06:02,595: INFO: utils: Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.]
+[2025-01-11 23:06:02,596: INFO: utils: NumExpr defaulting to 8 threads.]
+[2025-01-11 23:06:03,064: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2025-01-11 23:06:03,066: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-01-11 23:06:03,067: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-01-11 23:06:03,069: INFO: common: yaml file: schema.yaml loaded successfully]
+[2025-01-11 23:06:03,071: INFO: common: created directory at: artifacts]
+[2025-01-11 23:06:03,074: INFO: common: created directory at: artifacts/data_ingestion]
+[2025-01-11 23:06:03,075: INFO: data_ingestion: File already exists]
+[2025-01-11 23:06:03,080: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2025-01-11 23:06:03,081: INFO: main: >>>>>> stage Data Validation stage started <<<<<<]
+[2025-01-11 23:06:03,084: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-01-11 23:06:03,087: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-01-11 23:06:03,091: INFO: common: yaml file: schema.yaml loaded successfully]
+[2025-01-11 23:06:03,095: INFO: common: created directory at: artifacts]
+[2025-01-11 23:06:03,096: INFO: common: created directory at: artifacts/data_validation]
+[2025-01-11 23:06:03,146: INFO: main: >>>>>> stage Data Validation stage completed <<<<<<
+
+x==========x]
