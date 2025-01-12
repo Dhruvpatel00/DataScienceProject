@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/patel/OneDrive/Desktop/DataScienceProject/DataScienceProject/mlruns/0/9f2f2a2fedc042b59aa3a8d697d2e717/artifacts
+end_time: 1736676547587
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9f2f2a2fedc042b59aa3a8d697d2e717
+run_name: omniscient-hawk-431
+run_uuid: 9f2f2a2fedc042b59aa3a8d697d2e717
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736676533655
+status: 3
+tags: []
+user_id: patel
